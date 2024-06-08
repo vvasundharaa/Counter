@@ -1,5 +1,5 @@
 import React from 'react';
-import Button from './Counter'; // Make sure the path is correct
+import Button from './Counter'; 
 
 function App() {
   return (
